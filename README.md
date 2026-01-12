@@ -1,7 +1,7 @@
 # highD-scenario-extractor
 The HighD Scenario Extractor extracts traffic scenarios from the HighD dataset. It processes vehicle trajectories to provide initial states and spatial relationships (position, speed, distance). Output data is compatible with HighwayEnv, supporting autonomous driving research and testing.
 # Prerequisites
-Python 3.8+; Ensure 'pip' or 'conda' is available; 
+Python 3.8+; Ensure 'pip' or 'conda' is available; <br>
 pip install pandas numpy or conda install pandas numpy
 # Usage Sequence
 Run the scripts in the following order:<br>
